@@ -1,3 +1,10 @@
+# 4DoF Robotic Arm
+
+linkermap.html
+.pio/*
+venv/*
+
+
 # Prerequisites
 *.d
 
